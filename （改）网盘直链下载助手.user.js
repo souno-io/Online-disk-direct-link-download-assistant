@@ -13,11 +13,11 @@
 // @compatible	      Firefox
 // @compatible	      Safari
 // @compatible	      Opera
-// @require           https://unpkg.com/jquery@3.6.0/dist/jquery.min.js
-// @require           https://unpkg.com/sweetalert2@11/dist/sweetalert2.min.js
-// @require           https://unpkg.com/js-md5@0.7.3/build/md5.min.js
-// @resource Swal     https://unpkg.com/sweetalert2@11/dist/sweetalert2.min.css
-// @resource SwalDark https://unpkg.com/@sweetalert2/theme-dark@5.0.15/dark.min.css
+// @require           https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js
+// @require           https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js
+// @require           https://cdn.jsdelivr.net/npm/js-md5@0.7.3/build/md5.min.js
+// @resource Swal     https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css
+// @resource SwalDark https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@5.0.15/dark.min.css
 // @match             *://pan.baidu.com/disk/home*
 // @match             *://yun.baidu.com/disk/home*
 // @match             *://pan.baidu.com/disk/main*
